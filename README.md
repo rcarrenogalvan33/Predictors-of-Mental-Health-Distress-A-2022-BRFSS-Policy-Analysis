@@ -30,11 +30,9 @@ Policymakers often focus on income as the primary driver of health outcomes. How
 
 📂 Repository Structure
 
-    analysis.R: The full cleaning and analysis pipeline.
-
-    /plots: Exported visualizations for stakeholders.
-
-    README.md: Project documentation and summary.
+* [analysis.R](analysis.R): The full cleaning and analysis pipeline.
+* [Policy_Brief.md](Policy_Brief.md): Strategic recommendations for stakeholders.
+* README.md: Project documentation and summary.
 
 🚀 Technical Skills Demonstrated
 
