@@ -34,11 +34,10 @@ Policymakers often focus on income as the primary driver of health outcomes. How
 
     Employment Gap: Even when controlling for income, individuals "Unable to work" reported +1.44 days of poor mental health compared to those currently employed.
 
-### Key Findings
 ![Correlation](plot_correlation.jpg)
 *Figure 3: Linear correlation between physical and mental health distress.*
 
-## 🧪 Model Validation
+🧪 Model Validation
 To ensure the reliability of the hierarchical regression, I conducted standard diagnostic checks.
 
 ![Diagnostics](plot_diagnostics.jpg)
