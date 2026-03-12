@@ -14,6 +14,7 @@ library(effectsize)
 ############################
 # 2. Load Data
 ############################
+# Note: Dataset sourced from CDC 2022 BRFSS Annual Survey Data
 # Replace with your actual file path
 mh <- read.csv("mental_health_data.csv", nrows = 10000)
 
