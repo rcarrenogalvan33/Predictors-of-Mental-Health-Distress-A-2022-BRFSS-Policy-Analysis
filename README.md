@@ -5,9 +5,11 @@ Analyzing Social Determinants of Mental Health (BRFSS 2022)
 📝 Executive Summary
 
 This analysis investigates the relationship between socioeconomic status (SES), employment, and physical health on the frequency of poor mental health days. Using the 2022 BRFSS dataset, I developed a hierarchical linear regression model to determine which factors most significantly predict mental health distress in a post-pandemic landscape.
+
 🛠️ The Problem
 
 Policymakers often focus on income as the primary driver of health outcomes. However, raw data suggests that physical health and employment stability may play a more direct role. I sought to answer: Does the impact of income remain significant once we account for a person's physical health and ability to work?
+
 🧬 Methodology & Workflow
 
     Data Cleaning: Handled complex BRFSS survey codes (e.g., converting "88" to 0 days, filtering "Refused" and "Don't Know" 7/9 codes).
