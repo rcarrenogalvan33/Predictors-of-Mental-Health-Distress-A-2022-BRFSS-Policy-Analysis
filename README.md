@@ -1,6 +1,7 @@
 # Predictors-of-Mental-Health-Distress-A-2022-BRFSS-Policy-Analysis
 An investigation into the social determinants of mental health using hierarchical linear regression in R. This project identifies how physical health and employment status override traditional socioeconomic indicators in predicting psychological distress.
 Analyzing Social Determinants of Mental Health (BRFSS 2022)
+
 📝 Executive Summary
 
 This analysis investigates the relationship between socioeconomic status (SES), employment, and physical health on the frequency of poor mental health days. Using the 2022 BRFSS dataset, I developed a hierarchical linear regression model to determine which factors most significantly predict mental health distress in a post-pandemic landscape.
