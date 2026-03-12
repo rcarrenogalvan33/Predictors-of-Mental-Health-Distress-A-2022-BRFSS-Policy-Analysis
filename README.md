@@ -30,7 +30,7 @@ Policymakers often focus on income as the primary driver of health outcomes. How
 
 📂 Repository Structure
 
-    mental_health_analysis.R: The full cleaning and analysis pipeline.
+    analysis.R: The full cleaning and analysis pipeline.
 
     /plots: Exported visualizations for stakeholders.
 
