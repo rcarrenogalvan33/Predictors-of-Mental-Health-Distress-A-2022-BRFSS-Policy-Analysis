@@ -16,6 +16,12 @@ Policymakers often focus on income as the primary driver of health outcomes. How
 
     Exploratory Data Analysis (EDA): * Identified a polarized distribution where a significant sub-population reports 30/30 days of poor mental health.
 
+![Distribution](plot_distribution.png)
+*Figure 1: Distribution of mental health days, showing the high volume of '0' days and the distinct '30-day' spike.*
+
+![Employment Boxplot](plot_employment.png)
+*Figure 2: Mental health distress medians across employment categories.*
+
         Visualized clear disparities in mental health medians across employment categories.
 
     Statistical Modeling: Built three incremental Linear Regression models to test for variable "added value" and used sjPlot for professional reporting.
@@ -27,6 +33,15 @@ Policymakers often focus on income as the primary driver of health outcomes. How
     Predictor Strength: "Poor" physical health was the strongest predictor, adding +10.2 days of mental distress.
 
     Employment Gap: Even when controlling for income, individuals "Unable to work" reported +1.44 days of poor mental health compared to those currently employed.
+
+    ![Correlation](plot_correlation.jpg)
+*Figure 3: Linear correlation between physical and mental health distress.*
+
+## 🧪 Model Validation
+To ensure the reliability of the hierarchical regression, I conducted standard diagnostic checks.
+
+![Diagnostics](plot_diagnostics.jpg)
+*Figure 4: Regression diagnostics confirming linearity and checking for influential outliers.*
 
 📂 Repository Structure
 
